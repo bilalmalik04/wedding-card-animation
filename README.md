@@ -12,7 +12,7 @@ A beautifully animated and premium wedding card built with HTML, CSS, and JavaSc
 
 ##  Screenshot
 
-<img src="https://github.com/bilalmalik04/wedding-card-animation/blob/main/bannerCard.png?raw=true" width="600" height="350" alt="Wedding Card Preview" />
+<img src="https://github.com/bilalmalik04/wedding-card-animation/blob/main/BannerCard.png?raw=true" width="600" height="350" alt="Wedding Card Preview" />
 
 ---
 
